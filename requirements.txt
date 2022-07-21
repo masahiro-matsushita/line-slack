@@ -1,3 +1,4 @@
 Flask
+freeze
 line-bot-sdk
 slackweb
